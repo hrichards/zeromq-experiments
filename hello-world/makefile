@@ -1,2 +1,2 @@
 all: 
-	gcc hello-world.c -l zmq -o hello-world
+	gcc hello-world-server.c -l zmq -o hello-world
